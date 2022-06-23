@@ -7,7 +7,7 @@ Practical content carried out in the classroom during the Entra21 project.
 
 | CLASS | SUBJECT |
 |------|---------|
-|Class 01 - 01|[01]()|
+|Class 01 - 01|[01](./class_01/)|
 |Class 02 - 01|[01]()|
 |Class 03 - 01|[01]()|
 |Class 04 - 01|[01]()|
