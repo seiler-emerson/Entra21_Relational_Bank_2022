@@ -1,6 +1,6 @@
 SELECT *
   FROM patient
- WHERE name like "%a";
+ WHERE patient_name like "%a";
  
 SELECT *
   FROM patient
@@ -13,3 +13,7 @@ SELECT *
 SELECT *
   FROM patient
  WHERE birth < "2000-01-01";
+ 
+SELECT patient_name, cpf, address
+  FROM patient
+ WHERE genre = "female";
