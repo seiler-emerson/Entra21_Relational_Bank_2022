@@ -1,0 +1,12 @@
+insert into aluno (name,age) values ("Aluno W",20);
+insert into aluno (name,age) values ("Aluno O",16);
+insert into aluno (name,age) values ("Aluno M",18);
+insert into aluno (name,age) values ("Aluno R",15);
+insert into aluno (name,age) values ("Aluno T",11);
+insert into aluno (name,age) values ("Aluno P",18);
+insert into aluno (name,age) values ("Aluno V",18);
+insert into aluno (name,age) values ("Aluno X",16);
+insert into aluno (name,age) values ("Aluno U",30);
+insert into aluno (name,age) values ("Aluno N",17);
+insert into aluno (name,age) values ("Aluno Q",15);
+insert into aluno (name,age) values ("Aluno S",12);
