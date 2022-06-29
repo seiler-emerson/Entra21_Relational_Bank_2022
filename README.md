@@ -1,14 +1,15 @@
 # Entra21_Relational_Bank_2022
+
 Practical content carried out in the classroom during the Entra21 project.
 
-![Gif Entra21](./gif/entra21.gif)
+## 📚&nbsp;Classes Taught
 
-## Classes Taught
+ | CLASS 🎲 | SUBJECT 📚| <div align="center">▶️</div> |
+  |---------|---------|---------|
+  |Class 01|What is a relational database?|[<div align="center">▶️</div>](./class_01/)|
+  |Class 02|CRUD with database|[<div align="center">▶️</div>](./class_02/)|
+  |Class 03|Relationship between table|[<div align="center">▶️</div>](./class_03/)|
+  |Class 04|Group datas|[<div align="center">▶️</div>](./class_04/)|
+  |Class 05|---|[<div align="center">▶️</div>](./class_05/)|
 
-| CLASS | SUBJECT |
-|------|---------|
-|Class 01|[Class 01](./class_01/)|
-|Class 02|[Class 02](./class_02/)|
-|Class 03|[Class 03](./class_03/)|
-|Class 04|[Class 04](./class_04/)|
-|Class 05|[Class 05](./class_05/)|
+  ![Gif Entra21](./gif/entra21.gif)
