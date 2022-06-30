@@ -16,4 +16,4 @@ join telefone on telefone.pessoa_id=pessoa.id;
 
 --Selecionando pessoas mesmo que não tenham telefone
 select pessoa.name,pessoa.cpf,telefone.ddd,telefone.numero from pessoa
-left join telefone on telefone.pessoa_id=pessoa.id;    --Colocar o Jon obriga a trazer registros mesmo que não tenham esse relacionamento
+left join telefone on telefone.pessoa_id=pessoa.id;    --Colocar o Jon obriga a trazer registros mesmo que não tenham esse relacionamento.
